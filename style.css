@@ -1,0 +1,29 @@
+* {
+    overflow-x: hidden;
+}
+
+.input-group {
+    width: 290px;
+}
+
+.btn {
+    margin-bottom: 10px;
+}
+
+.dropdown-divider{
+    border-bottom: 1px solid black;
+    margin-right: 817px;
+}
+
+.container {
+    margin-left: 500px;
+}
+
+.texto {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    margin-right: 820px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
